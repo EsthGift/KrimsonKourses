@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.krimsonkourses.platform.AppIntegrationBasicTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2025-05-07T19:40:07" hostname="DESKTOP-TUURA6M" time="0.586">
+  <properties/>
+  <testcase name="testAssignCourseNotExist()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.225"/>
+  <testcase name="testPrintStudentDetailsInvalidPattern()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.004"/>
+  <testcase name="testAddCourseOutOfSequence()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.003"/>
+  <testcase name="testAssignCourseInvalidStudentID()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.003"/>
+  <testcase name="testAssignCourseInvalidPattern()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testPrintCourseDetailsInvalidSequence()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testPrintStudentDetailsInvalidID()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.003"/>
+  <testcase name="testAddCourseSuccess()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.007"/>
+  <testcase name="testExit()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.017"/>
+  <testcase name="testAddStudentInvalidID()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.01"/>
+  <testcase name="testAddCourseDuplicateSequence()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.003"/>
+  <testcase name="testAddStudentInvalidPattern()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.005"/>
+  <testcase name="testAssignCourseAlreadyAssigned()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.02"/>
+  <testcase name="testAssignCourseSuccess()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.018"/>
+  <testcase name="testPrintCourseDetailsNotExist()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testPrintStudentDetailsSuccess()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testPrintCourseDetailsInvalidPattern()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.042"/>
+  <testcase name="testAddCourseDuplicateName()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testAddCourseInvalidSequence()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testPrintStudentDetailsNotExist()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.001"/>
+  <testcase name="testAddStudentSuccess()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.015"/>
+  <testcase name="testAddCourseInvalidPattern()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testAddStudentDuplicateID()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testAssignCourseStudentNotExist()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testAssignCourseInvalidSequence()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testAssignCoursePrerequisitesNotCompleted()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.009"/>
+  <testcase name="testPrintCourseDetailsSuccess()" classname="com.krimsonkourses.platform.AppIntegrationBasicTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
