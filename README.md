@@ -13,7 +13,7 @@ A console-based academic course registration system written in Java.
 - Modular OOP design (Classes: KrimsonKourses, Student, Course)
 ## How to Run
 1.	Clone the repository
-git clone https://github.com/your-username/KrimsonKourses.git  
+git clone https://github.com/EsthGift/KrimsonKourses.git  
 cd KrimsonKourses  
 2.	Compile the project
 javac com/krimsonkourses/platform/*.java  
